@@ -20,8 +20,6 @@ If you are using another server change "https://parseapi.back4app.com" in:
     
 ## TEST
 
-Create a Class called: "Test" in your Parse-Server and add a column called "text".
+Create a Class called: "Test" in your Parse-Server and add columns called "name,age,lasname".
 
-After, add a row and put the "Hello World" text in the column & run the application.
-
-You will see a message on the center of the device screen or simulator
+After, add a row and fill the columns & run the application.
